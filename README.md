@@ -7,7 +7,7 @@ Technologies Used
 - HTML
 - CSS (including Bootstrap framework)
 - JavaScript
-- 
+  
 Live Demo
 Check out the live demo [here](https://mustafahussain52.github.io/Shopping-Cart/).
 
