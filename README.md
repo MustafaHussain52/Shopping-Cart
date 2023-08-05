@@ -1,4 +1,4 @@
-Online Shopping Web Application
+Online Shopping Web Application 
 
 Welcome to the Online Shopping Web Application! This project aims to create a multi-page web application for online shopping, complete with user authentication, product browsing, cart management, and payment integration using Razorpay. The UI design is based on the provided Figma design.
 
